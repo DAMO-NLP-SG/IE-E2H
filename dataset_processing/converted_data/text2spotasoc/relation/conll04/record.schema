@@ -1,0 +1,3 @@
+["location", "organization", "other", "people"]
+["live in", "organization in", "work for", "located in", "kill"]
+{"location": ["located in"], "organization": ["organization in"], "other": [], "people": ["live in", "work for", "kill"]}

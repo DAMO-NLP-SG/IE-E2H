@@ -1,0 +1,15 @@
+name: mrc_genia
+path: data/mrc_ner/genia
+data_class: MRCNER
+split:
+  train: mrc-ner.train
+  val: mrc-ner.dev
+  test: mrc-ner.test
+language: en
+
+mapper:
+  cell_line: cell line
+  cell_type: cell type
+  DNA: DNA
+  RNA: RNA
+  protein: protein

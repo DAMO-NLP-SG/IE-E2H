@@ -1,0 +1,3 @@
+["aspect", "opinion"]
+["neutral", "negative", "positive"]
+{"aspect": ["neutral", "negative", "positive"], "opinion": []}
