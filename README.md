@@ -78,13 +78,19 @@ Please check `./config`, `run_exp_e2h.bash`, `run_exp_e2h_ratio.bash`, `e2h.bash
 If you find the code helpful, please cite the following paper:
 
 ```
-@misc{gao2023easytohard,
-      title={Easy-to-Hard Learning for Information Extraction}, 
-      author={Chang Gao and Wenxuan Zhang and Wai Lam and Lidong Bing},
-      year={2023},
-      eprint={2305.09193},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{gao-etal-2023-easy,
+    title = "Easy-to-Hard Learning for Information Extraction",
+    author = "Gao, Chang  and
+      Zhang, Wenxuan  and
+      Lam, Wai  and
+      Bing, Lidong",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.754",
+    pages = "11913--11930",
 }
 ```
 
