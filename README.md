@@ -1,7 +1,7 @@
 # Easy-to-Hard Learning for Information Extraction
 
 
-Code for paper [Easy-to-Hard Learning for Information Extraction](https://arxiv.org/abs/2305.09193) (Findings of ACL 2023).
+Code for paper [Easy-to-Hard Learning for Information Extraction](https://aclanthology.org/2023.findings-acl.754/) (Findings of ACL 2023).
 
 <img src="E2H.jpg" align="middle" width="90%">
 
